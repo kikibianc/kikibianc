@@ -2,7 +2,7 @@
 
 - 💬 Ask me about Azure, PowerShell, Infrastructure, Automation, Windows and Windows Servers 😄
 - 🏃 I work at SSW https://ssw.com.au/people/kaique-biancatti
-- 👩‍Who wants to have my kids?
+- 👩‍ Single - Wnjoying my own company
 - 🔭 My current client project has some Windows Servers and PowerShell 🪐
 - 🌱 I’m learning some Azure and Docker in my spare time
 - 👯 I’m looking to collaborate on anywhere I can
