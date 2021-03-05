@@ -8,4 +8,4 @@
 - 📫 How to reach me: 🐤 https://www.facebook.com/kikibianc
 - ⚡ Fun fact: used to do Ninjutsu!
 
--kiki
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kikibianc)](https://github.com/anuraghazra/github-readme-stats)
