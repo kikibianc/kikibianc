@@ -6,8 +6,7 @@
 - 🌱 I’m learning Azure, Bicep and studying for Microsoft Exams in my spare time
 - 👯 I’m looking to lead a rock solid infrastructure team and deliver the best value for clients ⭐
 - 📫 How to reach me: 🐤 https://kikibianc.com
-- ⚡ Fun fact: I used to be a Ninja!
+- ⚡ Fun fact: I used to be a Ninja, now I'm a CrossFitter!
 
-
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=kikibianc&theme=synthwave)](https://github.com/stats-organization/github-stats-extended)
+[![kikibianc's GitHub stats](https://gitstats.ssw.com.au/api?username=kikibianc&theme=synthwave)](https://github.com/SSWConsulting/SSW.GitHub.Profile.Stats)
 
