@@ -8,5 +8,5 @@
 - 📫 How to reach me: 🐤 https://kikibianc.com
 - ⚡ Fun fact: I used to be a Ninja, now I'm a CrossFitter!
 
-[![kikibianc's GitHub stats](https://gitstats.ssw.com.au/api?username=kikibianc&theme=synthwave)](https://github.com/SSWConsulting/SSW.GitHub.Profile.Stats)
+[![kikibianc's GitHub stats](https://github-stats-steel.vercel.app/api?username=kikibianc&theme=synthwave)](https://github.com/SSWConsulting/SSW.GitHub.Profile.Stats)
 
